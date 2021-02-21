@@ -10,4 +10,6 @@ Space to return all points to their places
 
 ![Screenshot](video1.gif) 
 
+Using space you can do different interesting things
+
 ![Screenshot](video.gif)
